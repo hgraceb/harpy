@@ -1339,10 +1339,9 @@ packages:
   twitter_webview_auth:
     dependency: "direct main"
     description:
-      name: twitter_webview_auth
-      sha256: "12e8b92e5c91e81869e6074dcfd1288799d62762874ad13207734cb16e9894a9"
-      url: "https://pub.dev"
-    source: hosted
+      path: "packages/twitter_webview_auth"
+      relative: true
+    source: path
     version: "0.1.1"
   typed_data:
     dependency: transitive
